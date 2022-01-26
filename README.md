@@ -1,1 +1,1 @@
-https://prince-dhamecha.github.io/calculator/
+https://prince-dhamecha.github.io/CALCULATOR/
